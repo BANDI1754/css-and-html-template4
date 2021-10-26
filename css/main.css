@@ -42,7 +42,7 @@ aside h1 {
 }
 
 main {
-    position: absolute;
+    position: relative;
     margin-left: 310px;
     padding: 20px;
     margin-bottom: 110px;
